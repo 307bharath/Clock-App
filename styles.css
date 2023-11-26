@@ -1,0 +1,32 @@
+
+#clock{
+    text-align:center;
+    margin-top:200px ;
+    color: aliceblue;
+    font-weight: 900;
+    font-size: 60px;
+    text-shadow: 3px  3px 10px #000000;
+    margin-bottom: -8px;
+}
+#date{
+    text-align:center;
+    margin: 0;
+    color: aliceblue;
+    font-weight: 900;
+    font-size: 14px;
+    text-shadow: 2px  2px 10px #000000;
+}
+.d{
+    color: aqua;
+    font-size: 14px;
+    text-shadow: 2px 2px 8px;
+    
+}
+.ele{
+    margin-top: 100px;
+}
+.logo{
+    height: 50px;
+    margin: 10px;
+}
+
